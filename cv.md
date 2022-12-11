@@ -6,3 +6,5 @@ Skills
 Experience
 
 Certificates
+
+Languages
