@@ -12,7 +12,7 @@ I develop ERP-systems on the 1C:Enterprise platform. After moving to Poland, I w
 
 ## Skills
 
-- 1C:Enterprisegit
+- 1C:Enterprise
 - Git, GitHub
 - HTML, CSS
 - VS Code
