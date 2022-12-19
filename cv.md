@@ -3,8 +3,8 @@
 ## Contacts
 
 - Białystok, Poland
-- rezanovich1985@gmail.com
-- https://www.linkedin.com/in/rezanovich1985/
+- [rezanovich1985@gmail.com](mailto:rezanovich1985@gmail.com)
+- [https://www.linkedin.com/in/rezanovich1985/](https://www.linkedin.com/in/rezanovich1985/)
 
 ## Summary
 
@@ -12,7 +12,7 @@ I develop ERP-systems on the 1C:Enterprise platform. After moving to Poland, I w
 
 ## Skills
 
-- 1C:Enterprise
+- 1C:Enterprisegit
 - Git, GitHub
 - HTML, CSS
 - VS Code
@@ -36,7 +36,7 @@ I develop ERP-systems on the 1C:Enterprise platform. After moving to Poland, I w
 
 ## Projects
 
-https://github.com/rezanovich1985/rsschool-cv
+- [https://github.com/rezanovich1985/rsschool-cv](https://github.com/rezanovich1985/rsschool-cv)
 
 ## Education
 
