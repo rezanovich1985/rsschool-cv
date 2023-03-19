@@ -6,6 +6,7 @@ html {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  flex-wrap: wrap;
   list-style: none;
 }
 
