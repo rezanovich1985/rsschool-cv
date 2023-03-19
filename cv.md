@@ -19,6 +19,8 @@ I develop ERP-systems on the 1C:Enterprise platform. After moving to Poland, I w
 
 ## Code examples
 
+- HTML
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -41,7 +43,8 @@ I develop ERP-systems on the 1C:Enterprise platform. After moving to Poland, I w
 ## Education
 
 - Brest State A. Pushkin University, Faculty of Mathematics
-- [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) (in progress)
+- [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
+- [RS Schools Course «JavaScript/Front-end»](https://rs.school/js/) (in progress)
 
 ## Languages
 
